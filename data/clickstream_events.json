@@ -1,0 +1,7 @@
+[
+  {"event_id":"E001","customer_id":"C001","event_type":"page_view","event_ts":"2024-06-01T10:15:00Z","properties":{"page":"/home","referrer":"google"},"tags":["new_visitor","mobile"]},
+  {"event_id":"E002","customer_id":"C001","event_type":"add_to_cart","event_ts":"2024-06-01T10:20:00Z","properties":{"page":"/product/123","referrer":"internal"},"tags":["mobile"]},
+  {"event_id":"E003","customer_id":"C002","event_type":"page_view","event_ts":"2024-06-02T09:05:00Z","properties":{"page":"/home","referrer":"direct"},"tags":["returning_visitor","desktop"]},
+  {"event_id":"E004","customer_id":"C003","event_type":"page_view","event_ts":"2024-06-06T14:22:00Z","properties":{"page":"/product/456","referrer":"facebook"},"tags":["desktop"]},
+  {"event_id":"E005","customer_id":"C004","event_type":"checkout","event_ts":"2024-06-08T11:40:00Z","properties":{"page":"/checkout","referrer":"internal"},"tags":["mobile","returning_visitor"]}
+]
