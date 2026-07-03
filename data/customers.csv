@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,signup_date,country
+C001,Asha,Patel,asha.patel@example.com,2024-01-15,India
+C002,Liam,Chen,liam.chen@example.com,2024-02-03,USA
+C003,Maria,Garcia,maria.garcia@example.com,2024-02-20,Spain
+C004,Noah,Kim,noah.kim@example.com,2024-03-05,South Korea
+C005,Fatima,Ali,fatima.ali@example.com,2024-03-18,UAE
+C006,Oliver,Smith,oliver.smith@example.com,2024-04-01,UK
+C007,Sara,Muller,sara.muller@example.com,2024-04-22,Germany
+C008,Diego,Fernandez,diego.fernandez@example.com,2024-05-09,Mexico
+C009,Yuki,Tanaka,yuki.tanaka@example.com,2024-05-30,Japan
+C010,Emma,Johnson,emma.johnson@example.com,2024-06-12,Canada
